@@ -1,5 +1,17 @@
-Inside Of Units In Datapath  
 
+  
+-Instructions and registers are designed as length 16-bit  
+
+-Instruction Set For Arithmetic Operations (16-bit)  
+
+![](https://eneskzlcn.github.io/Datapath/arithmeticInstructionSet.png)
+
+-Instruction Set For Memory Operations (16-bit) 
+
+![](https://eneskzlcn.github.io/Datapath/memoryInstructionSet.png)
+  
+		Inside Of Units In Datapath  
+  
 
 Program Counter Unit  
 
