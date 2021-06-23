@@ -9,9 +9,9 @@
 -Instruction Set For Memory Operations (16-bit) 
 
 ![](https://eneskzlcn.github.io/Datapath/memoryInstructionSet.png)
+    
   
-		Inside Of Units In Datapath  
-  
+
 
 Program Counter Unit  
 
